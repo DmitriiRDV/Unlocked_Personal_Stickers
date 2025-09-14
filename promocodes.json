@@ -1,5 +1,12 @@
 {
-  "PROMO123": "https://github.com/DmitriiRDV/Unlocked_Personal_Stickers/blob/main/stickers/Icon_3.jpg",
-  "ACTIVEPLAYER5": "https://.../sticker_activeplayer5.png",
-  "TIKTOKSTAR": "https://.../sticker_tiktokstar.png"
+  "codes": [
+    {
+      "code": "PROMO123",
+      "url": "https://.../sticker_promo123.png"
+    },
+    {
+      "code": "ACTIVEPLAYER5",
+      "url": "https://.../sticker_activeplayer5.png"
+    }
+  ]
 }
